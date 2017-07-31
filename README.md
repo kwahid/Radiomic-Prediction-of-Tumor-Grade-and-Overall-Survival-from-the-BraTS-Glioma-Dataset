@@ -1,5 +1,5 @@
 # Radiomic-Prediction-of-Tumor-Grade-and-Overall-Survival-from-the-BraTS-Glioma-Dataset
-Folder corresponding to 2017 summer project at MD Anderson Cancer Center. 
+Folder corresponding to 2017 summer project at MD Anderson Cancer Center. Correspondance: kareem.a.wahid@uth.tmc.edu.
 
 ## This repo contains the following files: 
 PDF of project report (Radiomic Prediction of Tumor Grade and Overall Survival from the BraTS Glioma Dataset.pdf). <br><br>
