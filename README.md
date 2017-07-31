@@ -5,7 +5,7 @@ Folder corresponding to 2017 summer project at MD Anderson Cancer Center.
 PDF of project report (Radiomic Prediction of Tumor Grade and Overall Survival from the BraTS Glioma Dataset.pdf) <br><br>
 PDF of supplementary information (Radiomic Prediction of Tumor Grade and Overall Survival from the BraTS Glioma Dataset SI.pdf) <br><br>
 Folder containing csv files neccessary for running notebook (input files). <br><br>
-Jupyter notebook of code implementation (Radiomic Prediction of Tumor Grade and Overall Survival from the BraTS Glioma Dataset.ipynb  <br><br>
+Jupyter notebook of code implementation (Radiomic Prediction of Tumor Grade and Overall Survival from the BraTS Glioma Dataset.ipynb) <br><br>
 HTML copy of Jupyter notebook <br><br>
 Parameter file used in radiomic feature extaction (Params.yaml) <br><br>
 
